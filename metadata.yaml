@@ -1,0 +1,31 @@
+_repo: The-Antiquarian-Magazine-Bibliographer-Vol-4-July-Dec-1884_52641
+_version: 0.0.1
+alternative_title: The Antiquarian Magazine and Bibliographer; Vol. 4, July-Dec 1884
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Walford, Edward
+    birthdate: 1823
+    deathdate: 1897
+    gutenberg_agent_id: '41245'
+    url: http://www.gutenberg.org/2009/agents/41245
+description: ''
+gutenberg_issued: '2016-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Antiquities -- Periodicals'
+- !lcc 'DA'
+- !lcsh 'Archaeology -- Periodicals'
+- GITenberg
+title: The Antiquarian Magazine & Bibliographer; Vol. 4, July-Dec 1884
+url: http://www.gutenberg.org/ebooks/52641
