@@ -1,6 +1,9 @@
 _repo: The-Antiquarian-Magazine-Bibliographer-Vol-4-July-Dec-1884_52641
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Antiquarian Magazine and Bibliographer; Vol. 4, July-Dec 1884
+covers:
+- cover_type: archival
+  image_path: 52641-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '41245'
     url: http://www.gutenberg.org/2009/agents/41245
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52641#The-Antiquarian-Magazine-Bibliographer-Vol-4-July-Dec-1884
 gutenberg_issued: '2016-07-25'
 gutenberg_type: Text
 identifiers:
